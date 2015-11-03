@@ -11,8 +11,8 @@ $byline: 0.75rem; // 75%
 $headline-margin: 5px;
 
 // font variables
-$sans-serif: 'Slabo 27px', serif;
-$serif: 'Open Sans', sans-serif;
+$sans-serif: 'Anton', sans-serif;
+$serif: 'Crimson Text', serif;;
 
 
 body {
@@ -27,6 +27,7 @@ h1 {
 
 p {
   font-size: $body-text;
+  font-family: $serif;
 }
 
 nav li {
@@ -35,6 +36,7 @@ nav li {
 
 h2 {
   font-size: $sub-header;
+  font-family: $serif;
 }
 
 figcaption {
