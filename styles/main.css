@@ -1,0 +1,21 @@
+body {
+  font-size: 16px; }
+
+h1 {
+  font-size: 3rem;
+  font-family: "Slabo 27px", serif;
+  margin: 5px; }
+
+p {
+  font-size: 1rem; }
+
+nav li {
+  font-size: 1.25rem; }
+
+h2 {
+  font-size: 1.5rem; }
+
+figcaption {
+  font-size: 0.75rem; }
+
+/*# sourceMappingURL=main.css.map */
